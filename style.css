@@ -1,0 +1,17 @@
+body{
+    background-color: yellow;
+    color:red;
+
+}
+.heading{
+    font-size:22px;
+     width:70%;
+
+      
+}
+
+#camera,#result{
+    width: 350px;
+    height: 350px;
+    border: 5px solid grey;
+}
